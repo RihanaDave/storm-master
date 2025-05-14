@@ -147,7 +147,7 @@
         <azure-eventhubs.version>0.13.1</azure-eventhubs.version>
         <!-- Jersey 3.x is jakarta.* namespace. We have too many javax.* dependencies atm-->
         <jersey.version>2.40</jersey.version>
-        <dropwizard.version>1.3.29</dropwizard.version>
+        <dropwizard.version>3.0.0</dropwizard.version>
         <j2html.version>1.6.0</j2html.version>
         <caffeine.version>2.3.5</caffeine.version>
         <jakarta-jaxb-version>2.3.2</jakarta-jaxb-version>
